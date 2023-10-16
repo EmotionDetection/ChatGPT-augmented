@@ -1,5 +1,4 @@
-# ChatGPT-augmented
-Augmented Stories: Enhancing Korean Emotion Detection through ChatGPT Text Generation
+# Augmented Stories: Enhancing Korean Emotion Detection through ChatGPT Text Generation
 
 Sanghyub John Lee , Yu-mi Yi , and Kiseong Lee 
 
